@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ### Click below to view my portfolio website
-[Click Here](https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/)
+[Click Here](https://sam-98.github.io/)
 
 ## An attractive portfolio website with lucid information flow for Developers!
 
