@@ -3,7 +3,7 @@
 ### Click below to view my portfolio website
 [Click Here](https://sam-98.github.io/)
 
-## An attractive portfolio website with lucid information flow for Developers!
+## A portfolio website for Developers!
 
 
 <p align="center"> 
