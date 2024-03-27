@@ -9,7 +9,7 @@
 <p align="center"> 
   <kbd>
   	<a href="https://sam-98.github.io/" target="_blank">
-		<img src=""></img>
+		<img src="img/linkedin_pic.jpeg"></img>
 	</a>
   </kbd>
 </p>
