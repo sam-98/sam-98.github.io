@@ -8,8 +8,8 @@
 
 <p align="center"> 
   <kbd>
-  	<a href="https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/" target="_blank">
-		<img src="image.png"></img>
+  	<a href="https://sam-98.github.io/" target="_blank">
+		<img src=""></img>
 	</a>
   </kbd>
 </p>
