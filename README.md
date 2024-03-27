@@ -14,6 +14,6 @@
   </kbd>
 </p>
 
-Good Luck! :+1: 
+Best Wishes! :+1: 
 
-:e-mail: chandrikadeb7@gmail.com
+:e-mail: samnarayana98@gmail.com
